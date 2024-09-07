@@ -22,11 +22,11 @@ repository               : "StephenJackson08.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Stephen Jackson"
+  name             : "PhD Candidate | DevEcon"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate | DevEcon"
+  bio              : "Natural resources, artisanal mining, deforestation"
   location         : "Paris, France"
-  employer         : "Paris 1 Panthéon-Sorbonne University"
+  employer         : "U. Paris 1 Panthéon-Sorbonne"
   uri              : # URL
   email            : "stephen.jackson@univ-paris1.fr" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Stephen Jackson
+  linkedin         : "https://www.linkedin.com/in/stephen-jackson-3a9b62a5/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "@StephenJ_econ"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
